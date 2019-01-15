@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RushD</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_rank">Rank</string>
+    <string name="btn_settings">Settings</string>
+    <string name="btn_about">About us...</string>
+    <string name="galeria">Gallery</string>
+    <string name="camara">Camera</string>
+    <string-array name="options_image">
+        <item name="galeria">@string/galeria</item>
+        <item name="camara">@string/camara</item>
+    </string-array>
+</resources>

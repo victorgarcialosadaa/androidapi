@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RushD</string>
+    <string name="btn_play">Jugar</string>
+    <string name="btn_rank">Clasificación</string>
+    <string name="btn_settings">Ajustes</string>
+    <string name="btn_about">Sobre...</string>
+    <string name="galeria">Gallery</string>
+    <string name="camara">Camera</string>
+    <string-array name="options_image">
+        <item name="galeria">@string/galeria</item>
+        <item name="camara">@string/camara</item>
+    </string-array>
+</resources>
